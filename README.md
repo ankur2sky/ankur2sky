@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ankur2sky
 - 👀 I’m interested in Testing,Python,Data Analytics,Devops
-- 🌱 I’m currently learning My SQL
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Selenium,Java,Python,AWS,My SQL
+- 💞️ I’m looking to collaborate on AWS
 - 📫 How to reach me ...ankurrathore4u@gmail.com
 - 
 
